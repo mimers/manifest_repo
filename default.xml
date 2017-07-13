@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>  
+<manifest>
+	<remote name="mimer"
+		fetch="https://github.com/mimers/"/>
+	<default revision="master"
+		remote="mimer"
+		/>
+
+	<project path="markit" name="markit.git"/>
+	<project path="smarthome" name="smarthome.git"/>
+</manifest>
+
